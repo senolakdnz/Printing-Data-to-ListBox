@@ -1,0 +1,17 @@
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\Proje2\Proje2\bin\Debug\net6.0-windows\Proje2.exe
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\Proje2\Proje2\bin\Debug\net6.0-windows\Proje2.deps.json
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\Proje2\Proje2\bin\Debug\net6.0-windows\Proje2.runtimeconfig.json
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\Proje2\Proje2\bin\Debug\net6.0-windows\Proje2.dll
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\Proje2\Proje2\bin\Debug\net6.0-windows\ref\Proje2.dll
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\Proje2\Proje2\bin\Debug\net6.0-windows\Proje2.pdb
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\Proje2\Proje2\obj\Debug\net6.0-windows\Proje2.csproj.AssemblyReference.cache
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\Proje2\Proje2\obj\Debug\net6.0-windows\Proje2.Form1.resources
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\Proje2\Proje2\obj\Debug\net6.0-windows\Proje2.csproj.GenerateResource.cache
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\Proje2\Proje2\obj\Debug\net6.0-windows\Proje2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\Proje2\Proje2\obj\Debug\net6.0-windows\Proje2.AssemblyInfoInputs.cache
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\Proje2\Proje2\obj\Debug\net6.0-windows\Proje2.AssemblyInfo.cs
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\Proje2\Proje2\obj\Debug\net6.0-windows\Proje2.csproj.CoreCompileInputs.cache
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\Proje2\Proje2\obj\Debug\net6.0-windows\Proje2.dll
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\Proje2\Proje2\obj\Debug\net6.0-windows\ref\Proje2.dll
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\Proje2\Proje2\obj\Debug\net6.0-windows\Proje2.pdb
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\Proje2\Proje2\obj\Debug\net6.0-windows\Proje2.genruntimeconfig.cache
